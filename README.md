@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akbartangir99
 - 👀 I’m interested in Programming, swimming, football playing
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akbartangir99@gmail.com
 
 <!---
